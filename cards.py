@@ -11,7 +11,7 @@
 #if the cards matches u win and earn points
 #if the cards don't match you loss and earn zero points
 
-cards =["spades", "fllower", "diamond", "heart"]
+cards =["spades", "flower", "diamond", "heart"]
 points = 0
 
 import random
